@@ -1,0 +1,31 @@
+﻿table
+{
+border-collapse:collapse;
+}
+#fields table, #fields th, #fields td
+{
+border: 1px solid black;
+}
+
+#fields th
+{
+background-color:green;
+color:white;
+}
+#general_config label.error {
+  font-size: 0.8em;
+  color: #F00;
+  font-weight: bold;
+  display: block;
+  margin-left:0px;
+  width: 300px;
+  text-align: left;
+  
+}
+#general_config  input.error, #general_config select.error  {
+  background: #FFA9B8;
+  border: 1px solid red;
+}
+.input_length {
+width: 80px;
+}

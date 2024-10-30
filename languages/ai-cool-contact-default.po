@@ -1,0 +1,275 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ai-cool-contact\n"
+"POT-Creation-Date: 2014-06-18 23:41+0300\n"
+"PO-Revision-Date: 2014-06-18 23:41+0300\n"
+"Last-Translator: Abdul Ibrahim <shuman202@hotmail.com>\n"
+"Language-Team: Abdul Ibrahim <shuman202@hotmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: contact_admin.php:60 contact_admin.php:64
+msgid "This field is required"
+msgstr ""
+
+#: contact_admin.php:61 contact_admin.php:65
+msgid "This is not a vlid email address"
+msgstr ""
+
+#: contact_admin.php:68 contact_admin.php:71 contact_admin.php:74
+#: contact_admin.php:78 contact_admin.php:82 contact_admin.php:86
+#: contact_admin.php:89 contact_admin.php:92 contact_admin.php:96
+#: contact_admin.php:99
+msgid "This must be only digits"
+msgstr ""
+
+#: contact_admin.php:194
+msgid "Settings have been saved."
+msgstr ""
+
+#: contact_admin.php:201
+msgid "main settings"
+msgstr ""
+
+#: contact_admin.php:206
+msgid "to email"
+msgstr ""
+
+#: contact_admin.php:210
+msgid "from email"
+msgstr ""
+
+#: contact_admin.php:214
+msgid "email subject"
+msgstr ""
+
+#: contact_admin.php:222
+msgid "Fields settings"
+msgstr ""
+
+#: contact_admin.php:229 contact_admin.php:302
+msgid "Fields"
+msgstr ""
+
+#: contact_admin.php:230 contact_admin.php:303
+msgid "Used"
+msgstr ""
+
+#: contact_admin.php:231 contact_admin.php:304
+msgid "Required"
+msgstr ""
+
+#: contact_admin.php:232 contact_admin.php:305
+msgid "Minimum length"
+msgstr ""
+
+#: contact_admin.php:233 contact_admin.php:306
+msgid "maximum length"
+msgstr ""
+
+#: contact_admin.php:241 form.php:187
+msgid "Name"
+msgstr ""
+
+#: contact_admin.php:250 form.php:218
+msgid "subject"
+msgstr ""
+
+#: contact_admin.php:259
+msgid "Your website"
+msgstr ""
+
+#: contact_admin.php:268
+msgid "Your phone"
+msgstr ""
+
+#: contact_admin.php:276
+msgid "content"
+msgstr ""
+
+#: contact_admin.php:284
+msgid "E-Mail Address"
+msgstr ""
+
+#: contact_admin.php:291
+msgid "captcha"
+msgstr ""
+
+#: contact_admin.php:314
+msgid "options"
+msgstr ""
+
+#: contact_admin.php:318
+msgid "Display more user info"
+msgstr ""
+
+#: contact_admin.php:321
+msgid "The sender ip address"
+msgstr ""
+
+#: contact_admin.php:326
+msgid "Where The sender came from "
+msgstr ""
+
+#: contact_admin.php:330
+msgid "The sender browser"
+msgstr ""
+
+#: contact_admin.php:334
+msgid "Required symbol"
+msgstr ""
+
+#: contact_admin.php:338 form.php:230
+msgid "send me a copy"
+msgstr ""
+
+#: form.php:85
+msgid "Please supply Your name."
+msgstr ""
+
+#: form.php:86 form.php:95 form.php:100 form.php:105 form.php:110
+msgid "At least"
+msgstr ""
+
+#: form.php:86 form.php:95 form.php:100 form.php:105 form.php:110
+msgid "characters required !"
+msgstr ""
+
+#: form.php:87 form.php:96 form.php:101 form.php:106 form.php:111
+msgid "At most"
+msgstr ""
+
+#: form.php:87 form.php:96 form.php:101 form.php:106 form.php:111
+msgid "characters long!"
+msgstr ""
+
+#: form.php:90
+msgid "Please supply an e-mail address."
+msgstr ""
+
+#: form.php:91
+msgid "This is not a valid email address."
+msgstr ""
+
+#: form.php:94
+msgid "Please type a subject."
+msgstr ""
+
+#: form.php:99
+msgid "Please type a url."
+msgstr ""
+
+#: form.php:104
+msgid "Please type a the message."
+msgstr ""
+
+#: form.php:109
+msgid "Please type a phone."
+msgstr ""
+
+#: form.php:137 form.php:171
+msgid "Submitted"
+msgstr ""
+
+#: form.php:140
+msgid "Incorrect captcha"
+msgstr ""
+
+#: form.php:144 form.php:150 form.php:246
+msgid "Submit"
+msgstr ""
+
+#: form.php:146
+msgid "Please fill in all the required fields."
+msgstr ""
+
+#: form.php:154
+msgid "sending information..."
+msgstr ""
+
+#: form.php:177
+msgid "We received your message"
+msgstr ""
+
+#: form.php:181
+msgid "Fields marked with"
+msgstr ""
+
+#: form.php:181
+msgid "are required"
+msgstr ""
+
+#: form.php:193
+msgid "E-mail Address"
+msgstr ""
+
+#: form.php:202
+msgid "url"
+msgstr ""
+
+#: form.php:210
+msgid "phone"
+msgstr ""
+
+#: form.php:223
+msgid "Your message"
+msgstr ""
+
+#: form.php:241
+msgid "Different Image"
+msgstr ""
+
+#: process.php:61
+msgid "you got the follwing Message"
+msgstr ""
+
+#: process.php:65
+msgid "by"
+msgstr ""
+
+#: process.php:69
+msgid "The Subject is: "
+msgstr ""
+
+#: process.php:72
+msgid "The Message is: "
+msgstr ""
+
+#: process.php:73
+msgid "The sender information "
+msgstr ""
+
+#: process.php:77
+msgid "The sender email is: "
+msgstr ""
+
+#: process.php:84
+msgid "The sender website is: "
+msgstr ""
+
+#: process.php:88
+msgid "The sender phone is: "
+msgstr ""
+
+#: process.php:92
+msgid "The sender ip address is: "
+msgstr ""
+
+#: process.php:96 process.php:98
+msgid "The sender came from: "
+msgstr ""
+
+#: process.php:98
+msgid "directly has no referer"
+msgstr ""
+
+#: process.php:102
+msgid "The sender browser is: "
+msgstr ""

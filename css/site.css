@@ -1,0 +1,108 @@
+﻿
+
+p , li, legend , form{
+	font-size: 18px;
+	font-family: 'ColaborateLightRegular', Arial, sans-serif;
+	line-height: 125%;
+	margin-bottom: 10px;
+}
+
+
+input {
+	font-size: 20px;
+}
+
+form#contact label {
+	display: block;
+	clear: left;
+	float: left;
+	width: 175px;
+	text-align: right;
+	padding: 7px 15px 0 0;
+	text-transform: uppercase;	
+	font-weight: bold;
+
+
+}
+
+form#contact .label {
+	width: 200px;	
+}
+
+
+form#contact select {
+	display: inline-block;
+	margin-top: 8px;	
+}
+
+form#contact input[type=radio], form#contact input[type=checkbox] {
+   display: inline-block;
+   margin-top: 10px;	
+}
+
+form .indent, #submit {
+margin-left: 105px;
+margin-top: 5px;
+}
+
+#console label {
+	float: left;
+	width: 100px;
+}
+.clearLeft {
+	clear: left;
+}
+.imgRight {
+	float: right;
+	margin-bottom: 5px;
+	margin-left: 5px;
+}
+.imgLeft {
+	float: left;
+	margin-bottom: 5px;
+	margin-right: 5px;
+}
+.symbol{
+	color:red;
+	font-size: small
+}
+.p_require{
+	font-size: small;
+	
+}
+
+#send_me_div {
+display:inline-block;
+}
+#thank_you {
+position:relative;
+}
+#captcha_box{
+width: 200px;
+margin-left:210px;
+
+}
+#contact label.error {
+  font-size: 0.6em;
+  color: #F00;
+  font-weight: bold;
+  display: block;
+  margin-left: 210px;
+  width: 300px;
+  text-align: left;
+  
+}
+#contact  input.error, #contact select.error  {
+  background: #FFA9B8;
+  border: 1px solid red;
+}
+ p#fail  {
+  font-size: 0.8em;
+  color: #F00;
+  font-weight: bold;
+  display: block;
+  
+  width: 300px;
+  text-align: left;
+  
+}
